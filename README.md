@@ -1,6 +1,6 @@
 # Luís Andrade
 
-## Researcher in Political Science & Computational Mathematics
+## Researcher | Democracy Innovator | Future Nobel Peace Prize Winner 🕊️
 
 <p align="right">
   <img src="images/profile.jpg" alt="Luís Andrade at the Capitol" width="250">
@@ -8,38 +8,68 @@
 
 ---
 
-### 🧭 About Me
+## 🌟 Vision
 
-Welcome to my research profile! I am a passionate researcher with a background in Political Science and Computational Mathematics. I use both scientific areas to conduct cutting-edge research.
+I believe in a world where technology strengthens democracy rather than threatens it.  
+My mission is to design systems, policies, and ideas that protect human rights, empower citizens, and promote global cooperation through peace-driven innovation.
+
+This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
 
 ---
 
-### 🔬 Research Interests
+## 🔬 Research Interests
 
 - Optimization of public policies  
 - Algorithmic regulation and algorithmic constitutionalism  
 - Algorithmic game theory  
 - Stochastic modeling of collective behavior  
-- Digital democracy and intersections of AI and Democracy  
+- Digital democracy & AI governance  
 - Evolutionary institutionalism  
 - Computational politics  
-- Risk analysis  
+- Risk analysis and resilience modeling  
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects & Experiments
 
-I founded a Startup called **Open Source Democracy** that uses AI to enhance deliberative democracy.
+- **Open Source Democracy** – AI-powered platform to enhance deliberative democracy  
+- **Constitutional Code** – A framework exploring algorithmic constitutionalism in digital systems  
+- **Game Theory for Peace** – Simulating conflict resolution using computational models  
 
 ---
 
-### 📬 Contact Information
+## 📘 Learn With Me
+
+- 🧠 [Research Notes](#) – Ideas in progress and mini-explanations  
+- 📚 [Reading List](#) – Books and papers shaping my work  
+- 🎙️ [Talks & Interviews](#) – Upcoming podcasts, lectures & workshops  
+
+---
+
+## 🧭 Current Position
+
+**Independent Researcher** and **Bachelor’s Candidate in Applied Mathematics and Computation**  
+*Instituto Superior Técnico* (Lisbon, Portugal)
+
+Focused on building bridges between computational modeling and political theory to solve global problems.
+
+---
+
+## 🧠 Long-Term Goals
+
+- 🌍 Become a global voice in digital democracy, peace, and public tech  
+- 🧑‍🏫 Contribute pioneering interdisciplinary academic work  
+- 💡 Launch impactful civic-tech initiatives  
+- 🕊️ Win the **Nobel Peace Prize** for transformative contributions to democracy and human rights  
+
+---
+
+## 📬 Contact
 
 - **Email:** [luisanandrade2002@gmail.com](mailto:luisanandrade2002@gmail.com)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B3nio-andrade-215238236/)
 
 ---
 
-### 🎓 Current Position
-
-**Independent Researcher** and **Bachelor’s Candidate in Applied Mathematics and Computation** at *Instituto Superior Técnico*, dedicated to advancing scholarly frontiers in political science through rigorous inquiry.
+> *"Dreams are maps. Research is the compass. Action is the journey."*  
+> — Luís Andrade
