@@ -2,6 +2,27 @@
 
 ## Researcher | Democracy Innovator 
 
+<h2>🌟 Vision</h2>
+
+<table style="width:100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 300px; vertical-align: top; padding-right: 30px;">
+      <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="280" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    </td>
+    <td style="vertical-align: top; font-size: 16px; line-height: 1.7;">
+      <p><strong>I believe in a world where technology strengthens democracy rather than threatens it.</strong></p>
+
+      <p>
+      My mission is to design systems, policies, and ideas that protect human rights, empower citizens,
+      and promote global cooperation through peace-driven innovation.
+      </p>
+
+      <p>
+      This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <h2>🌟 Vision</h2>
