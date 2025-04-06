@@ -5,7 +5,7 @@
 Welcome to my research profile! I am a passionate researcher with a background in Political Science and Computational Mathematics. I use both scientific areas to conduct cutting-edge research.
 
 <p align="right">
-  <img src="luisandrade/images/20240908_063407%20%283%29.jpg" alt="Profile Picture" width="200">
+  <img src="20240908_063407 (3).jpg" alt="Profile Picture" width="200">
 </p>
 
 
