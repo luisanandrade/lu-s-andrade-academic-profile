@@ -1,9 +1,9 @@
 # Luís Andrade
 
-## Researcher | Democracy Innovator | Future Nobel Peace Prize Winner 🕊️
+## Researcher | Democracy Innovator 
 
 <p align="right">
-  <img src="images/profile.jpg" alt="Luís Andrade at the Capitol" width="250">
+  <img src="20240908_063407 (3).jpg" alt="Luís Andrade at the Capitol" width="250">
 </p>
 
 ---
