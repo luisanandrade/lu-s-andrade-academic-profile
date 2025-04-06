@@ -4,6 +4,10 @@
 ### About Me
 Welcome to my research profile! I am a passionate researcher with a background in Political Science and Computational Mathematics. I use both scientific areas to conduct cutting-edge research.
 
+![Profile Picture](profile-pic.jpg)
+
+
+
 ### Research Interests
 - Optimization of public policies
 - Algorithmic regulation and algorithmic constitutionalism
