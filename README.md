@@ -3,7 +3,7 @@
 ## Researcher | Democracy Innovator 
 
 
-
+<br>
 
 
 ## 🌟 Vision and Research Interests 
