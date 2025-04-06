@@ -2,7 +2,7 @@
  
 ## Researcher | Democracy Innovator 
 
-<br><br>
+<br>
 
 ## 🌟 Vision and Research Interests 
 
@@ -17,7 +17,7 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 <br>
 
-**Research Interests**
+***Research Interests***
 
 <div style="margin-left: 20px;">
 
