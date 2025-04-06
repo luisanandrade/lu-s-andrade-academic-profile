@@ -4,6 +4,8 @@
 
 <br>
 
+---
+
 ## 🌟 Vision and Research Interests 
 
 <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="280" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 12px;">
