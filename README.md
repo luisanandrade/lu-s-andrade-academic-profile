@@ -8,9 +8,9 @@
 
 <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="280" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 12px;">
 
-*I believe in a world where technology strengthens democracy rather than threatens it.  
+*I believe in a world where technology strengthens democracy rather than threatens it.* 
 My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
-and promote global cooperation through peace-driven innovation.*
+and promote global cooperation through peace-driven innovation.
 
 
 This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
@@ -37,7 +37,7 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 ---
 
-## 🚀 Projects & Experiments
+## Projects & Experiments
 
 - **Open Source Democracy** – AI-powered platform to enhance deliberative democracy  
 - **Constitutional Code** – A framework exploring algorithmic constitutionalism in digital systems  
@@ -45,7 +45,7 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 ---
 
-## 📘 Learn With Me
+## Learn With Me
 
 - 🧠 [Research Notes](#) – Ideas in progress and mini-explanations  
 - 📚 [Reading List](#) – Books and papers shaping my work  
@@ -70,7 +70,7 @@ Focused on building bridges between computational modeling and political theory 
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **Email:** [luisanandrade2002@gmail.com](mailto:luisanandrade2002@gmail.com)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B3nio-andrade-215238236/)
