@@ -4,8 +4,7 @@
 ### About Me
 Welcome to my research profile! I am a passionate researcher with a background in Political Science and Computational Mathematics. I use both scientific areas to conduct cutting-edge research.
 
-![Profile Picture](images
-/20240908_063407 (3).jpg)
+![Profile Picture](images/20240908_063407 (3).jpg)
 
 
 
