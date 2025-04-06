@@ -21,8 +21,6 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 ***Research Interests***
 
-</div>
-
 - Optimization of public policies  
 - Algorithmic regulation and algorithmic constitutionalism  
 - Algorithmic game theory  
@@ -31,8 +29,6 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 - Evolutionary institutionalism  
 - Computational politics  
 - Risk analysis and resilience modeling
-
-</div>
 
 
 <div style="margin-left: 20px;">
