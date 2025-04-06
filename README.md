@@ -15,7 +15,7 @@ and promote global cooperation through peace-driven innovation.
 
 This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
 
-<br>
+<br><br>
 
 ***Research Interests***
 
