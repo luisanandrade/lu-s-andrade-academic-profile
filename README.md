@@ -39,11 +39,12 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 ---
 
+---
 
 ## 🧪 Projects & Experiments
 
 - **Open Source Democracy** – AI-powered platform to enhance deliberative democracy  
-- **Constitutional Code** – A framework exploring algorithmic constitutionalism in digital systems  
+- **Constitutional Code** – Exploring algorithmic constitutionalism in digital systems  
 - **Game Theory for Peace** – Simulating conflict resolution using computational models
 
 ---
@@ -61,7 +62,7 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 **Independent Researcher**  
 **Bachelor’s Candidate** in Applied Mathematics and Computation  
 *Instituto Superior Técnico* (Lisbon, Portugal)  
-Focused on building bridges between computational modeling and political theory to solve global problems.
+Focused on bridging computational modeling and political theory to solve global problems.
 
 ---
 
@@ -72,6 +73,11 @@ Contribute pioneering interdisciplinary academic work.
 Launch impactful civic-tech initiatives.
 
 ---
+
+## 📩 Contact
+
+**Email:** [luisanandrade2002@gmail.com](mailto:luisanandrade2002@gmail.com)  
+**LinkedIn:** [View Profile](https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B3nio-andrade-215238236/)
 
 ## 📩 Contact
 
