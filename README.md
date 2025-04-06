@@ -5,13 +5,15 @@
 
 ## 🌟 Vision & Research Interests
 
-<img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="260" align="left" style="margin-right: 25px; border-radius: 10px;">
+<img src="images/profile.jpg" alt="Luís Andrade" width="260" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
 **I believe in a world where technology strengthens democracy rather than threatens it.**  
 My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
 and promote global cooperation through peace-driven innovation.
 
 This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
+
+<br clear="all" />
 
 ---
 
@@ -26,7 +28,6 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 - Computational politics  
 - Risk analysis and resilience modeling
 
-<br clear="all" />
 
 
 
