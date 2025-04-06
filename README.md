@@ -49,7 +49,7 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 -  [Research Notes](#) – Ideas in progress and mini-explanations  
 -  [Reading List](#) – Books and papers shaping my work  
--  [Talks & Interviews](#) – Upcoming podcasts, lectures & workshops  
+- 🎙️ [Talks & Interviews](#) – Upcoming podcasts, lectures & workshops  
 
 ---
 
