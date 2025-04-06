@@ -32,6 +32,9 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 </div>
 
+
+<br><br>
+
 ---
 
 ## 🚀 Projects & Experiments
