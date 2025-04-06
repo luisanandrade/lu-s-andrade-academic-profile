@@ -17,7 +17,7 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 <div style="margin-left: 10px;">
 
-<br><br>
+<br>
 
 **My research Interests include:** 
 
