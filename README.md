@@ -2,10 +2,9 @@
 
 ## Researcher | Democracy Innovator 
 
-
 ## 🌟 Vision & Research Interests
 
-<img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="260" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="260" align="left" style="margin-right: 30px; margin-bottom: 10px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 **I believe in a world where technology strengthens democracy rather than threatens it.**  
 My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
@@ -17,7 +16,9 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 ---
 
-### 🧠 Research Interests
+## 🧠 Research Interests
+
+<div style="margin-top: 25px;">
 
 - Optimization of public policies  
 - Algorithmic regulation and algorithmic constitutionalism  
@@ -26,10 +27,12 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 - Digital democracy & AI governance  
 - Evolutionary institutionalism  
 - Computational politics  
-- Risk analysis and resilience modeling
+- Risk analysis and resilience modeling  
+
+</div>
 
 
-
+---
 
 
 
