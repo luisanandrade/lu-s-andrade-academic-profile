@@ -9,18 +9,24 @@ layout: default
 
 ---
 
-## 🌟 Vision
+<br>
 
-> _I believe in a world where technology strengthens democracy rather than threatens it._
+## 🌟 Vision and Research Interests  
 
-My mission is to design systems, policies, and ideas that protect human rights,  
-empower citizens, and promote global cooperation through peace-driven innovation.
+<img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="280" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 12px;">
+
+*I believe in a world where technology strengthens democracy rather than threatens it.* 
+My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
+and promote global cooperation through peace-driven innovation.
+
 
 This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
 
----
+<br>
 
-## 🧠 Research Interests
+
+
+***Research Interests***
 
 - Optimization of public policies  
 - Algorithmic regulation and algorithmic constitutionalism  
@@ -30,6 +36,12 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 - Evolutionary institutionalism  
 - Computational politics  
 - Risk analysis and resilience modeling
+
+
+<div style="margin-left: 20px;">
+
+
+<br><br>
 
 ---
 
