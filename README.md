@@ -2,7 +2,7 @@
  
 ## Researcher | Democracy Innovator 
 
-<br><br><br>
+<br>
 
 ## 🌟 Vision & Research Interests
 
@@ -16,6 +16,8 @@ and promote global cooperation through peace-driven innovation.
 This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
 
 <div style="margin-left: 10px;">
+
+<br>
 
 **My research Interests include:** 
 
