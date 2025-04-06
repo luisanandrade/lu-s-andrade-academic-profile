@@ -18,18 +18,22 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 <br>
 
-**My research Interests include:** 
 
-Optimization of public policies;  
-Algorithmic regulation and algorithmic constitutionalism;
-Algorithmic game theory;
-Stochastic modeling of collective behavior;  
-Digital democracy & AI governance;  
-Evolutionary institutionalism;  
-Computational politics;  
-Risk analysis and resilience modeling;
+## 🧠 Research Interests
 
-<br clear="all" />
+<div style="margin-left: 20px;">
+
+- Optimization of public policies  
+- Algorithmic regulation and algorithmic constitutionalism  
+- Algorithmic game theory  
+- Stochastic modeling of collective behavior  
+- Digital democracy & AI governance  
+- Evolutionary institutionalism  
+- Computational politics  
+- Risk analysis and resilience modeling
+
+</div>
+
 
 
 
