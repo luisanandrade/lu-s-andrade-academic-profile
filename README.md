@@ -77,3 +77,4 @@ Launch impactful civic-tech initiatives.
 
 **Email:** [luisanandrade2002@gmail.com](mailto:luisanandrade2002@gmail.com)  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B3nio-andrade-215238236/)
+
