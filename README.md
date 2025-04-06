@@ -3,37 +3,30 @@
 ## Researcher | Democracy Innovator 
 
 
+## 🌟 Vision & Research Interests
 
-<table style="width:100%; table-layout:fixed;">
-  <tr>
-    <td style="width:280px; vertical-align:top; padding-right: 25px;">
-      <img src="images/profile.jpg" alt="Luís Andrade" width="260" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    </td>
-    <td style="vertical-align:top; font-size: 16px; line-height: 1.6;">
-      <h2>🌟 Vision</h2>
-      <p>
-        I believe in a world where technology strengthens democracy rather than threatens it.  
-        My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
-        and promote global cooperation through peace-driven innovation.
-      </p>
-      <p>
-        This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
-      </p>
+<img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="260" align="left" style="margin-right: 25px; border-radius: 10px;">
 
-      <h2>🧠 Research Interests</h2>
-      <ul>
-        <li>Optimization of public policies</li>
-        <li>Algorithmic regulation and algorithmic constitutionalism</li>
-        <li>Algorithmic game theory</li>
-        <li>Stochastic modeling of collective behavior</li>
-        <li>Digital democracy & AI governance</li>
-        <li>Evolutionary institutionalism</li>
-        <li>Computational politics</li>
-        <li>Risk analysis and resilience modeling</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**I believe in a world where technology strengthens democracy rather than threatens it.**  
+My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
+and promote global cooperation through peace-driven innovation.
+
+This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
+
+---
+
+### 🧠 Research Interests
+
+- Optimization of public policies  
+- Algorithmic regulation and algorithmic constitutionalism  
+- Algorithmic game theory  
+- Stochastic modeling of collective behavior  
+- Digital democracy & AI governance  
+- Evolutionary institutionalism  
+- Computational politics  
+- Risk analysis and resilience modeling
+
+<br clear="all" />
 
 
 
