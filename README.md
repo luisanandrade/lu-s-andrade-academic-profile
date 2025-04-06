@@ -49,7 +49,7 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 -  [Research Notes](#) – Ideas in progress and mini-explanations  
 -  [Reading List](#) – Books and papers shaping my work  
-- 🎙 [Talks & Interviews](#) – Upcoming podcasts, lectures & workshops  
+-  [Talks & Interviews](#) – Upcoming podcasts, lectures & workshops  
 
 ---
 
@@ -64,9 +64,9 @@ Focused on building bridges between computational modeling and political theory 
 
 ##  Long-Term Goals
 
-- 🌍 Become a global voice in digital democracy, peace, and public tech  
-- 🧑‍🏫 Contribute pioneering interdisciplinary academic work  
-- 💡 Launch impactful civic-tech initiatives  
+-  Become a global voice in digital democracy, peace, and public tech  
+-  Contribute pioneering interdisciplinary academic work  
+-  Launch impactful civic-tech initiatives  
 
 ---
 
@@ -76,6 +76,3 @@ Focused on building bridges between computational modeling and political theory 
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lu%C3%ADs-ant%C3%B3nio-andrade-215238236/)
 
 ---
-
-> *"Dreams are maps. Research is the compass. Action is the journey."*  
-> — Luís Andrade
