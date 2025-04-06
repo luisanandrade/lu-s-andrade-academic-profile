@@ -4,23 +4,17 @@
 
 <h2>🌟 Vision</h2>
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <p>
-        I believe in a world where technology strengthens democracy rather than threatens it.
-        My mission is to design systems, policies, and ideas that protect human rights, empower citizens,
-        and promote global cooperation through peace-driven innovation.
-      </p>
-      <p>
-        This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
-      </p>
-    </td>
-    <td style="vertical-align: top;">
-      <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="250" style="border-radius: 8px;">
-    </td>
-  </tr>
-</table>
+<img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="250" align="right" style="margin-left: 20px; border-radius: 8px;">
+
+<p>
+I believe in a world where technology strengthens democracy rather than threatens it.  
+My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
+and promote global cooperation through peace-driven innovation.
+</p>
+
+<p>
+This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
+</p>
 
 
 
