@@ -60,7 +60,6 @@ Focused on building bridges between computational modeling and political theory 
 - 🌍 Become a global voice in digital democracy, peace, and public tech  
 - 🧑‍🏫 Contribute pioneering interdisciplinary academic work  
 - 💡 Launch impactful civic-tech initiatives  
-- 🕊️ Win the **Nobel Peace Prize** for transformative contributions to democracy and human rights  
 
 ---
 
