@@ -2,6 +2,7 @@
  
 ## Researcher | Democracy Innovator 
 
+<br><br><br>
 
 ## 🌟 Vision & Research Interests
 
@@ -14,9 +15,8 @@ and promote global cooperation through peace-driven innovation.
 
 This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
 
-<br><br><br>
 
-## 🧠 Research Interests
+# Research Interests
 
 - Optimization of public policies  
 - Algorithmic regulation and algorithmic constitutionalism  
