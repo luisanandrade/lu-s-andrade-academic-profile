@@ -2,10 +2,11 @@
 
 ## Researcher | Democracy Innovator 
 
+
 <table>
   <tr>
     <td style="width: 300px; vertical-align: top; padding-right: 30px;">
-      <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="280" style="border-radius: 12px;">
+      <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="260" style="border-radius: 12px;">
     </td>
     <td style="vertical-align: top; font-size: 16px; line-height: 1.6;">
       <h2>🌟 Vision</h2>
