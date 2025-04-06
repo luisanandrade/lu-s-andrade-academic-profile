@@ -31,13 +31,8 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 - Risk analysis and resilience modeling
 
 
-<div style="margin-left: 20px;">
-
-
 
 <br><br>
-
----
 
 ---
 
