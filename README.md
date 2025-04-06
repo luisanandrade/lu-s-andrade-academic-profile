@@ -19,7 +19,7 @@
   </div>
 
   <div style="margin-left: 20px;">
-    <img src="images/profile.jpg" alt="Luís Andrade" width="250" style="border-radius: 8px;">
+    <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="250" style="border-radius: 8px;">
   </div>
 </div>
 
