@@ -18,7 +18,7 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 My research Interests include: 
 
-     - Optimization of public policies  
+- Optimization of public policies  
 - Algorithmic regulation and algorithmic constitutionalism  
 - Algorithmic game theory  
 - Stochastic modeling of collective behavior  
