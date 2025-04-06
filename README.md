@@ -47,9 +47,9 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 ## Learn With Me
 
-- 🧠 [Research Notes](#) – Ideas in progress and mini-explanations  
-- 📚 [Reading List](#) – Books and papers shaping my work  
-- 🎙️ [Talks & Interviews](#) – Upcoming podcasts, lectures & workshops  
+-  [Research Notes](#) – Ideas in progress and mini-explanations  
+-  [Reading List](#) – Books and papers shaping my work  
+- 🎙 [Talks & Interviews](#) – Upcoming podcasts, lectures & workshops  
 
 ---
 
@@ -62,7 +62,7 @@ Focused on building bridges between computational modeling and political theory 
 
 ---
 
-## 🧠 Long-Term Goals
+##  Long-Term Goals
 
 - 🌍 Become a global voice in digital democracy, peace, and public tech  
 - 🧑‍🏫 Contribute pioneering interdisciplinary academic work  
