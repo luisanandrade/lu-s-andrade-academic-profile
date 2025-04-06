@@ -34,55 +34,6 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 </div>
 
-
-
-
-## 🌟 Vision
-
-<img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="300" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-I believe in a world where technology strengthens democracy rather than threatens it.  
-My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
-and promote global cooperation through peace-driven innovation.
-
-This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
-
-<br clear="all" />
-
-
-
-## 🌟 Vision
-
-<img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="200" align="left" style="margin-right: 20px; border-radius: 8px;">
-
-I believe in a world where technology strengthens democracy rather than threatens it.  
-My mission is to design systems, policies, and ideas that protect human rights, empower citizens,  
-and promote global cooperation through peace-driven innovation.
-
-This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
-
-<br clear="all" />
-
-
-<h2>🌟 Vision</h2>
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-
-
----
-
-## 🔬 Research Interests
-
-- Optimization of public policies  
-- Algorithmic regulation and algorithmic constitutionalism  
-- Algorithmic game theory  
-- Stochastic modeling of collective behavior  
-- Digital democracy & AI governance  
-- Evolutionary institutionalism  
-- Computational politics  
-- Risk analysis and resilience modeling  
-
 ---
 
 ## 🚀 Projects & Experiments
