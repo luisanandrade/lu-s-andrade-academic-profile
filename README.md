@@ -8,10 +8,9 @@
 
 <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="280" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 12px;">
 
-*I believe in a world where technology strengthens democracy rather than threatens it.*  
-My mission is to design systems, policies, and ideas that protect human rights, empower citizens, and promote global cooperation through innovation.
-
-I use this space to trace how my work and questions evolve as I explore ways technology can empower citizens.
+*I believe technology should amplify, not erode, the humanistic foundations of democracy.*
+Drawing on political science theory and computational methods alike, my mission is to design systems and policies that protect rights, empower citizens, and foster cooperative problem‑solving. 
+This site documents how my questions evolve as I explore ways technology can empower citizens.
 
 <br>
 
