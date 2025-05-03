@@ -30,6 +30,18 @@ I use this space to trace how my work and questions evolve as I explore ways tec
 
 ---
 
+## 🎖 Selected Achievements
+
+- APSA Graduate‑Student Support Grant awardee (2024)  
+- Research Intern, Portuguese Institute of International Relations, NOVA (2023)  
+- MIT **Policy Hackathon** participant – “HackGPT: Generating the Policy of Tomorrow” (2023)  
+- PSA Media & Politics Group Annual Conference** – University of Portsmouth, 2023  
+  “What Explains Retweet Proneness in the 2020 American Presidential Election" (2022-2024).
+- International Conference of Undergraduate Research (ICUR)** – Monash & Warwick, 2022  
+
+
+---
+
 ##  Projects & Experiments
 
 - **Open Source Democracy** – AI-powered platform to enhance deliberative democracy  
