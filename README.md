@@ -41,10 +41,9 @@ Focused on bridging computational modeling and political theory to solve global 
 
 ---
 
-## 🎖 Selected Achievements
+##  Selected Achievements
 
-- APSA Graduate‑Student Support Grant awardee (2024)
-- Research Intern, Portuguese Institute of International Relations, NOVA (2023)
+- **Research Intern**, Portuguese Institute of International Relations, NOVA (2023)
 - **MIT Policy Hackathon** participant — “HackGPT: Generating the Policy of Tomorrow” (2023)
 - **Paper presentation** — PSA Media & Politics Group Annual Conference,  
   University of Portsmouth (2023): “What Explains Retweet Proneness in the 2020 U.S. Presidential Election?”
