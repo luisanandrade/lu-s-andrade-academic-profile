@@ -60,6 +60,12 @@ Focused on bridging computational modeling and political theory to solve global 
 
 ---
 
+## Opinion & Commentary
+
+- **“A Grandiosidade da Democracia.”** *Público* (op‑ed in Portuguese, 11 Apr 2025)  
+  [Read the article](https://www.publico.pt/2025/04/11/p3/cronica/chata-grandiosidade-democracia-2129012)
+
+---
 ##  Learn With Me (coming soon)
 
 - [Research Notes] – Ideas in progress and mini-explanations  
@@ -67,12 +73,7 @@ Focused on bridging computational modeling and political theory to solve global 
 - [Talks & Interviews] – Upcoming podcasts, lectures & workshops
 
 ---
-## Opinion & Commentary
 
-- **“A Grandiosidade da Democracia.”** *Público* (op‑ed in Portuguese, 11 Apr 2025)  
-  [Read the article](https://www.publico.pt/2025/04/11/p3/cronica/chata-grandiosidade-democracia-2129012)
-
----
 ##  Long-Term Goals
 
 Become a voice in digital democracy, peace, and public tech.  
