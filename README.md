@@ -40,9 +40,12 @@ I use this space to trace how my work and questions evolve as I explore ways tec
 
 
 ## Opinion & Commentary
-- [Opinion Article (in Portuguese)](https://www.publico.pt/2025/04/11/p3/cronica/chata-grandiosidade-democracia-2129012)
-  
+
+- **“A Grandiosidade da Democracia.”** *Público* (op‑ed in Portuguese, 11 Apr 2025)  
+  [Read the article](https://www.publico.pt/2025/04/11/p3/cronica/chata-grandiosidade-democracia-2129012)
+
 ---
+
 
 ##  Learn With Me (in progress)
 
