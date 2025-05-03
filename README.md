@@ -11,7 +11,7 @@
 *I believe in a world where technology strengthens democracy rather than threatens it.*  
 My mission is to design systems, policies, and ideas that protect human rights, empower citizens, and promote global cooperation through peace-driven innovation.
 
-This site is a living archive of my work, thinking, and ambition to contribute toward lasting peace and justice.
+I use this space to trace how my work and questions evolve as I explore ways technology can empower citizens.
 
 <br>
 
@@ -38,11 +38,17 @@ This site is a living archive of my work, thinking, and ambition to contribute t
 
 ---
 
-##  Learn With Me
 
-- [Research Notes](#) – Ideas in progress and mini-explanations  
-- [Reading List](#) – Books and papers shaping my work  
-- 🎙 [Talks & Interviews](#) – Upcoming podcasts, lectures & workshops
+## Opinion & Commentary
+- [Opinion Article (in Portuguese)](https://www.publico.pt/2025/04/11/p3/cronica/chata-grandiosidade-democracia-2129012)
+  
+---
+
+##  Learn With Me (in progress)
+
+- [Research Notes] – Ideas in progress and mini-explanations  
+- [Reading List] – Books and papers shaping my work  
+- 🎙 [Talks & Interviews] – Upcoming podcasts, lectures & workshops
 
 ---
 
@@ -57,7 +63,7 @@ Focused on bridging computational modeling and political theory to solve global 
 
 ##  Long-Term Goals
 
-Become a global voice in digital democracy, peace, and public tech.  
+Become a voice in digital democracy, peace, and public tech.  
 Contribute pioneering interdisciplinary academic work.  
 Launch impactful civic-tech initiatives.
 
