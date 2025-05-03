@@ -11,6 +11,7 @@
 *I believe in a world where technology strengthens democracy rather than threatens it.* <br>
 Drawing on political science theory and computational methods, my mission is to design systems and policies that protect rights, empower citizens and promote global cooperation through innovation.
 
+
 This site documents how my questions evolve as I explore ways technology can empower citizens.
 
 <br>
