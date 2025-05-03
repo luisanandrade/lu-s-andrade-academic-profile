@@ -34,7 +34,7 @@ This site documents how my questions evolve as I explore ways technology can emp
 ## 🧭 About
 
 **Independent Researcher** – Computational Modeling & Digital Democracy  
-**B.Sc. in Applied Mathematics & Computation**, *Instituto Superior Técnico* (Lisbon)  
+**B.Sc. in Applied Mathematics & Computation**, *Instituto Superior Técnico* Lisbon (current)  
 **B.A. in Political Science and Research Assistant** · *NOVA University Lisbon* (completed 2023)  
 Visiting Student · *Goethe University Frankfurt* 
 
