@@ -9,7 +9,6 @@
 <img src="20240908_063407 (3).jpg" alt="Luís Andrade" width="280" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 12px;">
 
 *I believe technology should amplify, not erode, the humanistic foundations of democracy.*
-
 Drawing on political science theory and computational methods alike, my mission is to design systems and policies that protect rights, empower citizens, and foster cooperative problem‑solving. 
 
 This site documents how my questions evolve as I explore ways technology can empower citizens.
