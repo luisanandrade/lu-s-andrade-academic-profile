@@ -60,23 +60,19 @@ Focused on bridging computational modeling and political theory to solve global 
 
 ---
 
+##  Learn With Me (coming soon)
 
+- [Research Notes] – Ideas in progress and mini-explanations  
+- [Reading List] – Books and papers shaping my work  
+- [Talks & Interviews] – Upcoming podcasts, lectures & workshops
+
+---
 ## Opinion & Commentary
 
 - **“A Grandiosidade da Democracia.”** *Público* (op‑ed in Portuguese, 11 Apr 2025)  
   [Read the article](https://www.publico.pt/2025/04/11/p3/cronica/chata-grandiosidade-democracia-2129012)
 
 ---
-
-
-##  Learn With Me (in progress)
-
-- [Research Notes] – Ideas in progress and mini-explanations  
-- [Reading List] – Books and papers shaping my work  
-- 🎙 [Talks & Interviews] – Upcoming podcasts, lectures & workshops
-
----
-
 ##  Long-Term Goals
 
 Become a voice in digital democracy, peace, and public tech.  
