@@ -30,6 +30,16 @@ I use this space to trace how my work and questions evolve as I explore ways tec
 
 ---
 
+## 🧭 About
+
+**Independent Researcher** – Computational Modeling & Digital Democracy  
+**B.Sc. in Applied Mathematics & Computation**, *Instituto Superior Técnico* (Lisbon)  
+**B.A. in Political Science and Research Assistant** · *NOVA University Lisbon* (completed 2023)  
+
+Focused on bridging computational modeling and political theory to solve global problems.
+
+---
+
 ## 🎖 Selected Achievements
 
 - APSA Graduate‑Student Support Grant awardee (2024)
@@ -50,15 +60,6 @@ I use this space to trace how my work and questions evolve as I explore ways tec
 
 ---
 
-## 🧭 About
-
-**Independent Researcher** – Computational Modeling & Digital Democracy  
-**B.Sc. in Applied Mathematics & Computation**, *Instituto Superior Técnico* (Lisbon)  
-**B.A. in Political Science and Research Assistant** · *NOVA University Lisbon* (completed 2023)  
-
-Focused on bridging computational modeling and political theory to solve global problems.
-
----
 
 ## Opinion & Commentary
 
