@@ -38,6 +38,16 @@ I use this space to trace how my work and questions evolve as I explore ways tec
 
 ---
 
+## 🧭 Current Position
+
+**Independent Researcher**  
+**Bachelor’s Candidate** in Applied Mathematics and Computation  
+*Instituto Superior Técnico* (Lisbon, Portugal)  
+**B.A. in Political Science**, 2023  
+*Faculty of Social Sciences & Humanities – NOVA University Lisbon*
+Focused on bridging computational modeling and political theory to solve global problems.
+
+---
 
 ## Opinion & Commentary
 
@@ -52,15 +62,6 @@ I use this space to trace how my work and questions evolve as I explore ways tec
 - [Research Notes] – Ideas in progress and mini-explanations  
 - [Reading List] – Books and papers shaping my work  
 - 🎙 [Talks & Interviews] – Upcoming podcasts, lectures & workshops
-
----
-
-## 🧭 Current Position
-
-**Independent Researcher**  
-**Bachelor’s Candidate** in Applied Mathematics and Computation  
-*Instituto Superior Técnico* (Lisbon, Portugal)  
-Focused on bridging computational modeling and political theory to solve global problems.
 
 ---
 
