@@ -54,9 +54,9 @@ Focused on bridging computational modeling and political theory to solve global 
 
 ##  Projects & Experiments
 
-- **Open Source Democracy** – AI-powered platform to enhance deliberative democracy  
-- **Constitutional Code** – Exploring algorithmic constitutionalism in digital systems  
-- **Game Theory for Peace** – Simulating conflict resolution using computational models
+- **Open Source Democracy** — AI‑powered e‑democracy platform that auto‑summarises legislation, attaches academic + media evidence, and lets citizens debate & vote.  
+- **Constitutional Code** — Early‑stage exploration of algorithmic constitutionalism and digital‑rights regulation (concept phase, 2025).  
+- **Optimal Allocation of Public Resources** — Optimization‑theory model for evidence‑based budget distribution in public policy (design phase).
 
 ---
 
