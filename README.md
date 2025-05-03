@@ -38,11 +38,11 @@ I use this space to trace how my work and questions evolve as I explore ways tec
 
 ---
 
-## 🧭 Current Position
+## 🧭 About
 
 **Independent Researcher** – Computational Modeling & Digital Democracy  
-**B.Sc. Candidate** · Applied Mathematics & Computation, *Instituto Superior Técnico* (Lisbon)  
-**B.A. in Political Science** · *NOVA University Lisbon* (completed 2023)  
+**B.Sc. in Applied Mathematics & Computation**, *Instituto Superior Técnico* (Lisbon)  
+**B.A. in Political Science and Research Assistant** · *NOVA University Lisbon* (completed 2023)  
 
 Focused on bridging computational modeling and political theory to solve global problems.
 
