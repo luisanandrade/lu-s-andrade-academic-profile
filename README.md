@@ -15,6 +15,9 @@ I use this space to trace how my work and questions evolve as I explore ways tec
 
 <br>
 
+<!-- 280‑px image width  + 25‑px right‑margin  ≈ 305 px  -->
+<div style="margin-left: 310px;">   <!-- adjust number as you like -->
+
 **_Research Interests_**
 
 - Optimization of public policies  
